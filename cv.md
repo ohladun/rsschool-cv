@@ -25,4 +25,4 @@ I'm a student who, in addition to studying philosophy, has also decided to learn
 * **JS/FE Pre-School 2026 Q1** | RS School | 2026
 
 ## 🌎 English Language
-**Proficiency Level:** B2 Upper Intermediate ([EF SET English Certificat](https://cert.efset.org/ufvksR))
+**Proficiency Level:** B2 Upper Intermediate ([EF SET English Certificate](https://cert.efset.org/ufvksR))
