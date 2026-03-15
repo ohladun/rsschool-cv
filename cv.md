@@ -1,6 +1,5 @@
 # Oleksii Hladun
-**Student** 📍Prague, CZ | ✉️ ohladun22@gmail.com
-💻 [GitHub](https://github.com/ohladun)
+**Student** | 📍Prague, CZ | ✉️ ohladun22@gmail.com | 💻 [GitHub](https://github.com/ohladun)
 
 ---
 
