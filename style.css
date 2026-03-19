@@ -74,6 +74,17 @@ body {
 	font-weight: 400;
 }
 
+.contact {
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 10px;
+}
+
+.contact_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
 .skills {
 	margin-top: 40px;
 }
@@ -144,7 +155,7 @@ body {
 	font-weight: 400;
 }
 
-.edu_link {
+.link {
 	width: fit-content;
 	height: 30px;
 	border-radius: 7px;
@@ -154,7 +165,7 @@ body {
 	font-weight: 700;
 }
 
-.edu_link:hover {
+.link:hover {
 	background-color: #E4E4E7;
 	transition: .5s;
 }
