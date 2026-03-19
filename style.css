@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
 	background-color: #fff;
 	font-family: "Montserrat Alternates", sans-serif;
@@ -98,3 +102,72 @@ body {
 	margin-top: 20px;
 }
 
+.code {
+	margin-top: 40px;
+}
+
+.code_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.code_box {
+	width: 310px;
+	background-color: #E4E4E7;
+	margin-top: 20px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+.education {
+	margin-top: 40px;
+}
+
+.education_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.education_items {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.education_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.edu_link {
+	width: fit-content;
+	height: 30px;
+	border-radius: 7px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #09090B;
+	font-weight: 700;
+}
+
+.edu_link:hover {
+	background-color: #E4E4E7;
+	transition: .5s;
+}
+
+.footer {
+	margin-top: 40px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.footer_descr {
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.footer_icon {
+	width: 40px;
+	height: 40px;
+}
