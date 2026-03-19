@@ -3,9 +3,13 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
 body {
 	background-color: #fff;
 	font-family: "Montserrat Alternates", sans-serif;
+	display: flex;
+	justify-content: center; 
+  	align-items: center;
 }
 
 .container {
@@ -13,9 +17,6 @@ body {
 }
 
 .header {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	margin-top: 20px;
 }
 
@@ -42,25 +43,58 @@ body {
 .main {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 	margin-top: 30px;
 }
 
 .about {
 	display: flex;
 	justify-content: center;
-
-	max-width: 580px;
-	gap: 15px;
+	max-width: 700px;
+	gap: 20px;
 }
 
 .about_img {
-	width: 56px;
-	height: 56px;
+	width: 60px;
+	height: 60px;
 	border-radius: 100%;
 }
 
 .about_descr {
-	font-size: 500;
+	font-size: 20px;
+	font-weight: 500;
 }
+
+.skills {
+	margin-top: 40px;
+}
+
+.skills_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.skills_items {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.skills_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.experience {
+	margin-top: 40px;
+}
+
+.experience_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.experience_descr {
+	font-size: 20px;
+	font-weight: 400;
+	margin-top: 20px;
+}
+
