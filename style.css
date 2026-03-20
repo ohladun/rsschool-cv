@@ -1,0 +1,190 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color: #fff;
+	font-family: "Montserrat Alternates", sans-serif;
+	display: flex;
+	justify-content: center; 
+  	align-items: center;
+}
+
+.container {
+	max-width: 1440px;
+}
+
+.header {
+	margin-top: 20px;
+}
+
+.nav {
+	display: flex;
+	gap: 40px;
+}
+
+.nav_links {
+	width: fit-content;
+	height: 30px;
+	border-radius: 7px;
+	font-size: 24px;
+	text-decoration: none;
+	color: #09090B;
+	font-weight: 700;
+}
+
+.nav_links:hover {
+	background-color: #E4E4E7;
+	transition: .5s;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+}
+
+.about {
+	display: flex;
+	justify-content: center;
+	max-width: 700px;
+	gap: 20px;
+}
+
+.about_title {
+	font-size: 34px;
+	font-weight: 700;
+	padding-bottom: 10px;
+}
+
+.about_img {
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+}
+
+.about_descr {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.contact {
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 10px;
+}
+
+.contact_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.skills {
+	margin-top: 40px;
+}
+
+.skills_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.skills_items {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.skills_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.experience {
+	margin-top: 40px;
+}
+
+.experience_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.experience_descr {
+	font-size: 20px;
+	font-weight: 400;
+	margin-top: 20px;
+}
+
+.code {
+	margin-top: 40px;
+}
+
+.code_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.code_box {
+	width: 310px;
+	background-color: #E4E4E7;
+	margin-top: 20px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+.education {
+	margin-top: 40px;
+}
+
+.education_title {
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.education_items {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.education_item {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.link {
+	width: fit-content;
+	height: 30px;
+	border-radius: 7px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #09090B;
+	font-weight: 700;
+}
+
+.link:hover {
+	background-color: #E4E4E7;
+	transition: .5s;
+}
+
+.footer {
+	margin-top: 40px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.footer_descr {
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.footer_icon {
+	width: 40px;
+	height: 40px;
+}
