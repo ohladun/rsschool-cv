@@ -1,5 +1,5 @@
 # Oleksii Hladun
-**Prague, Czech Republic** | GitHub: https://github.com/ohladun | Email: lexiio02lex@gmail.com
+**Prague, Czech Republic** | GitHub: [ohladun](https://github.com/ohladun) | Email: lexiio02lex@gmail.com
 
 ---
 
@@ -28,3 +28,12 @@ philosophy, and ethics. I’m a quick learner, passionate about writing “clean
 
 ---
 
+## Education
+* **Charles University (KTF UK), Prague** - Philosophy and Ethics
+* **RS School** - JavaScript / Front-End 
+
+---
+
+## English Language
+* **Level**: Upper Intermediate (B2)
+* [**EF SET Certificate**](https://cert.efset.org/ufvksR)
